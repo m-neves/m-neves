@@ -1,10 +1,13 @@
-### About
+## About
 I am a back-end software developer with over 6 years of industry experience building production-ready APIs and solutions.
 <br>
+
 ## Connect with me
 <br>
 <br>
+
 ## Expertise
+
 <img align="left" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -24,6 +27,3 @@ I am a back-end software developer with over 6 years of industry experience buil
 <img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-
-<br>
-<br>
