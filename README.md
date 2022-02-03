@@ -5,8 +5,6 @@ I am a back-end software developer with over 6 years of industry experience buil
 - 🌱 Currently helping the agriculture world to be more fertile and efficient
 <br>
 
-<br>
-
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-neves1/)
 <br>
