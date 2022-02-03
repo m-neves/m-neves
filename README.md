@@ -3,6 +3,7 @@ I am a back-end software developer with over 6 years of industry experience buil
 <br>
 
 ## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-neves1/)
 <br>
 <br>
 
@@ -27,3 +28,6 @@ I am a back-end software developer with over 6 years of industry experience buil
 <img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br>
+<br>
