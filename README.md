@@ -2,7 +2,7 @@
 I am a back-end software developer with over 6 years of industry experience building production-ready APIs and solutions.
 
 - 🧑‍🎓 Passionate about learning and always improving myself
-- 🍔 Currently helping to serve hundreds of thousands of tables through one of the biggest delivery app in LATAM
+- 🍔 Currently helping to serve hundreds of thousands of tables through one of the biggest delivery app in LatAm
 <br>
 
 ## Connect with me
@@ -14,7 +14,6 @@ I am a back-end software developer with over 6 years of industry experience buil
 
 <img align="left" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img align="left" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="Springboot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
 <img align="left" alt="PL/SQL" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 <img align="left" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
