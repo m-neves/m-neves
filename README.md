@@ -1,8 +1,8 @@
 ## About
-I am a back-end software developer with over 6 years of industry experience building production-ready APIs and solutions.
+I am a back-end software developer with over 7 years of industry experience building production-ready APIs and solutions.
 
 - 🧑‍🎓 Passionate about learning and always improving myself
-- 🍔 Currently helping to serve millions of tables through one of the biggest delivery app in LatAm
+- 🍔 Currently helping to serve millions of tables through the biggest delivery app in LatAm
 <br>
 
 ## Connect with me
